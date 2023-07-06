@@ -1,14 +1,14 @@
 # Group_Project_1_COVID-19_Data_Analysis
 
-Introduction question and what we found interesting
+##Questions to be answered in this project:
 
-How the pandemic affected our normal lives and how to prepare for potential future pandemic spread?
+1. How the pandemic affected our normal lives and how to prepare for potential future pandemic spread?
 
 In the first two years of the pandemic, COVID-19 was identified as the third leading cause of death in the United States, trailing only heart disease and cancer.
 Data was obtained through excel files from the CDC official website.
 Some of the main factors we looked for were COVID-19 deaths and hospitalizations, age groups, and administered vaccine doses
 Questions Answered
-Question 1- What has been the weekly COVID-19 hospitalization?
+2.  What has been the weekly COVID-19 hospitalization?
 The highest weekly hospitalization was during 1/19/22 (5.6M cases), Omicron started on late 11/19/21. Total cumulative hospitalization as of 2/8/23 is 102M, with current hospitalization of 23K.
 Question 2- What has been the COVID-19 weekly deaths?
 Highest number of death was on the week of 1/31/21 (7.04 per 100K population)
