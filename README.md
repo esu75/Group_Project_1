@@ -26,6 +26,8 @@
 6. What have been the relationship between age group and COVID-19 deaths?
  Due to Pearson’s Correlation--r value is about 0.2 which is less than 0.3. Therefore, the correlation between weekly deaths and weekly administered doses are very 
  weak or none
+
+
 ![image](https://github.com/esu75/Group_Project_1/assets/118146659/fe200bcb-26c2-4397-8f46-8072fddd2b14)
 
 
