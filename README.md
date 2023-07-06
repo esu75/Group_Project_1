@@ -1,6 +1,6 @@
 # Group_Project_1_COVID-19_Data_Analysis
 
-##Questions to be answered in this project:
+## Questions to be answered in this project:
 
 1. How the pandemic affected our normal lives and how to prepare for potential future pandemic spread?
 
