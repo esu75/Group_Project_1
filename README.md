@@ -30,6 +30,23 @@
 
 
 
+sources used:
+[CDC Website]{https://covid.cdc.gov/covid-data-tracker/#trends_select_select_00}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 89% of COVID-19 deaths were among people aged 55 years and older.
