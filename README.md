@@ -52,7 +52,3 @@ Here is the link where the Covid_19 data was fetched:
 
 
 
-89% of COVID-19 deaths were among people aged 55 years and older.
-
-
-![image](https://github.com/esu75/Group_Project_1/assets/118146659/16828a0d-aee7-4cc3-b25e-b9fb9f0cd580)
