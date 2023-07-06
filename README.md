@@ -15,8 +15,7 @@
     Vaccination in the U.S. started on 12/9/20. Highest vaccination per week happened on 4/14/21 at 23.3M doses Total cumulative vaccination administered in the 
     U.S.A are 670.3M
 
-    ![image](https://github.com/esu75/Group_Project_1/assets/118146659/7974e7fc-b73d-406c-8b9c-566686888d8d)
-    ![image](https://github.com/esu75/Group_Project_1/assets/118146659/db2b33ae-f240-47c4-9ace-e09d76ecb900)
+    ![image](https://github.com/esu75/Group_Project_1/assets/118146659/7974e7fc-b73d-406c-8b9c-566686888d8d) [image](https://github.com/esu75/Group_Project_1/assets/118146659/db2b33ae-f240-47c4-9ace-e09d76ecb900)
 
 
 
