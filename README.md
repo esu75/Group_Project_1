@@ -31,7 +31,7 @@
 
 
 ### sources used:
-
+Here is the link where the Covid_19 was fetched:
 [CDC Website](https://covid.cdc.gov/covid-data-tracker/#trends_select_select_00)
 
 
