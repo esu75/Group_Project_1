@@ -15,17 +15,24 @@
     Vaccination in the U.S. started on 12/9/20. Highest vaccination per week happened on 4/14/21 at 23.3M doses Total cumulative vaccination administered in the 
     U.S.A are 670.3M
 
-    ![image](https://github.com/esu75/Group_Project_1/assets/118146659/7974e7fc-b73d-406c-8b9c-566686888d8d)
+   ![image](https://github.com/esu75/Group_Project_1/assets/118146659/7974e7fc-b73d-406c-8b9c-566686888d8d)
     
-    ![image](https://github.com/esu75/Group_Project_1/assets/118146659/db2b33ae-f240-47c4-9ace-e09d76ecb900)
+    
+   ![image](https://github.com/esu75/Group_Project_1/assets/118146659/db2b33ae-f240-47c4-9ace-e09d76ecb900)
+    
+   ![image](https://github.com/esu75/Group_Project_1/assets/118146659/e4abb35e-8d0a-4a83-86f6-bf393c16c8f1)
+
+
+6. What have been the relationship between age group and COVID-19 deaths?
+ Due to Pearson’s Correlation--r value is about 0.2 which is less than 0.3. Therefore, the correlation between weekly deaths and weekly administered doses are very 
+ weak or none
+![image](https://github.com/esu75/Group_Project_1/assets/118146659/fe200bcb-26c2-4397-8f46-8072fddd2b14)
 
 
 
-![image](https://github.com/esu75/Group_Project_1/assets/118146659/16828a0d-aee7-4cc3-b25e-b9fb9f0cd580)
 
-Questions 4- What have been the relationship between age group and COVID-19 deaths?
-Due to Pearson’s Correlation--r value is about 0.2 which is less than 0.3. Therefore, the correlation between weekly deaths and weekly administered doses are very weak or none
+
 89% of COVID-19 deaths were among people aged 55 years and older.
 
 
-
+![image](https://github.com/esu75/Group_Project_1/assets/118146659/16828a0d-aee7-4cc3-b25e-b9fb9f0cd580)
